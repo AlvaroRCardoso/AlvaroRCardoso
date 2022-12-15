@@ -1,4 +1,4 @@
-### Opaa! Eu sou o Álvaro Cardoso
+### Opaa!
 - 💬 Estudando Vue e React
 
 <div align="center">
