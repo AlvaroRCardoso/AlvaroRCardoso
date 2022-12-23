@@ -1,5 +1,5 @@
 ### Opaa!
-- 💬 Estudando Vue e React
+- 💬 Estudando React
 
 <div align="center">
   <a href="https://github.com/AlvaroRCardoso">
