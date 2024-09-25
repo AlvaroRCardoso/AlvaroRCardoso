@@ -5,7 +5,7 @@ Aqui você pode conhecer mais sobre meus projetos, onde exploro React, Node e mu
 <div style="display: inline_block"><br>
   <img align="center" alt="Alvaro-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Alvaro-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Alvaro-Node" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/node/node-original.svg">
+  <img align="center" alt="Alvaro-Node" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/node/node.svg">
 </div>
   
   ##
