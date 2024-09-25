@@ -3,8 +3,8 @@
 Aqui você pode conhecer mais sobre meus projetos, onde exploro React, Node e muito mais. Sempre em busca de aprender e compartilhar conhecimento. 🚀
 
 <div style="display: inline_block"><br>
-  <img align="center" alt="Alvaro-React" height="30" width="40" src="https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB&style=for-the-badge">
-  <img align="center" alt="Alvaro-React" height="30" width="40" src="https://img.shields.io/badge/Node.js-43853D?logo=node.js&logoColor=white&style=for-the-badge">
+  <img align="center" alt="Alvaro-React" src="https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB&style=for-the-badge">
+  <img align="center" alt="Alvaro-Node" src="https://img.shields.io/badge/Node.js-43853D?logo=node.js&logoColor=white&style=for-the-badge">
 </div>
   
   ##
