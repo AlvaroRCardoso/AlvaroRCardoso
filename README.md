@@ -1,17 +1,30 @@
-## Oiii eu sou o Álvaro Cardoso, desenvolvedor web full stack!
+# 👨‍💻 Álvaro Cardoso - Full Stack Developer  
 
-Aqui você pode conhecer mais sobre meus projetos, onde exploro React, Node e muito mais. Sempre em busca de aprender e compartilhar conhecimento. 🚀
+### Backend 
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="Alvaro-React" src="https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB&style=for-the-badge">
-  <img align="center" alt="Alvaro-Node" src="https://img.shields.io/badge/Node.js-43853D?logo=node.js&logoColor=white&style=for-the-badge">
-</div>
-  
-  ##
- 
-<div> 
-  <a href="https://www.youtube.com/@alvarocardoso120" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
-  <a href="https://www.instagram.com/cardosoalvaro_/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:alvaro.cardoso@universo.univates.br"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/cardosoalvaro/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-</div>
+<p>
+  <img src="https://img.shields.io/badge/-PHP-333333?style=flat&logo=php" alt="PHP" />
+  <img src="https://img.shields.io/badge/-Laravel-333333?style=flat&logo=laravel" alt="Laravel" />
+</p>
+
+### Frontend  
+
+<p>
+  <img src="https://img.shields.io/badge/-React-333333?style=flat&logo=react" alt="React" />
+  <img src="https://img.shields.io/badge/-Next.js-333333?style=flat&logo=next.js" alt="Next.js" />
+  <img src="https://img.shields.io/badge/-Tailwind_CSS-333333?style=flat&logo=tailwindcss" alt="Tailwind CSS" />
+  <img src="https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5" alt="HTML5" />
+  <img src="https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6" alt="CSS" />
+</p>
+
+## 📬 Contact Me   
+
+<p>
+  <a href="https://www.linkedin.com/in/alancapellao/" target="_blank">
+    <img src="https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white" alt="LinkedIn" height="25" />
+  </a>
+  <a href="mailto:alancapellao@gmail.com">
+    <img src="https://img.shields.io/badge/-Gmail-006bed?style=flat-square&logo=Gmail&logoColor=white" alt="Gmail" height="25" />
+  </a>
+</p>
