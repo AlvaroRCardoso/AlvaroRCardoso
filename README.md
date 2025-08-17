@@ -24,7 +24,7 @@
   <a href="https://www.linkedin.com/in/alancapellao/" target="_blank">
     <img src="https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white" alt="LinkedIn" height="25" />
   </a>
-  <a href="mailto:alancapellao@gmail.com">
+  <a href="mailto:alvaro.cardoso@universo.univates.br">
     <img src="https://img.shields.io/badge/-Gmail-006bed?style=flat-square&logo=Gmail&logoColor=white" alt="Gmail" height="25" />
   </a>
 </p>
