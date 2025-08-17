@@ -21,7 +21,7 @@
 ## 📬 Contact Me   
 
 <p>
-  <a href="https://www.linkedin.com/in/alancapellao/" target="_blank">
+  <a href="https://www.linkedin.com/in/cardosoalvaro/" target="_blank">
     <img src="https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white" alt="LinkedIn" height="25" />
   </a>
   <a href="mailto:alvaro.cardoso@universo.univates.br">
